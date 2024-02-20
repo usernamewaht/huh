@@ -6,6 +6,8 @@ pre{
     font-family: cursive;
     font-size: 20;
     font-style: italic;
+    border: 5px dotted aquamarine;
+    border-radius: 15px;
 }
 #uprt{
     color: teal;
