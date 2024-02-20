@@ -1,0 +1,13 @@
+body{
+    background-color: palevioletred;
+}
+pre{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20;
+    font-style: italic;
+}
+#uprt{
+    color: teal;
+    font-family: cursive;
+}
