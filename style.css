@@ -16,7 +16,6 @@ body{
 }
 .car{
     position: relative;
-    left: 400px;
 }
 button{
     font-family: monospace;
