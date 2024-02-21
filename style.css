@@ -1,15 +1,28 @@
 body{
     background-color: palevioletred;
 }
-pre{
-    color: yellow;
-    font-family: cursive;
-    font-size: 20;
-    font-style: italic;
-    border: 5px dotted aquamarine;
-    border-radius: 15px;
-}
-#uprt{
+.upt{
     color: teal;
+    font-family: sans-serif;
+    text-shadow: 5px 5px 5px palegoldenrod;
+    border-bottom: 5px double green;
+}
+.eso{
     font-family: cursive;
+    font-size: 20px;
+    color: yellow;
+    border: 5px dotted aquamarine; 
+    border-radius: 10px;
+}
+.car{
+    position: relative;
+    left: 400px;
+}
+button{
+    font-family: monospace;
+    font-size: 25px;
+    color: orange;
+    background-color: teal;
+    border: 4px dashed orange;
+    border-radius: 10px;
 }
